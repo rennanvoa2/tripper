@@ -1,0 +1,103 @@
+{
+    "Portugal": [
+      "Lisbon",
+      "Porto",
+      "Funchal",
+      "Coimbra",
+      "Sintra",
+      "Albufeira",
+      "Évora",
+      "Braga"
+    ],
+    "Spain": [
+      "Barcelona",
+      "Madrid",
+      "Seville",
+      "Valencia",
+      "Granada",
+      "Bilbao",
+      "San Sebastian",
+      "Malaga"
+    ],
+    "France": [
+      "Paris",
+      "Nice",
+      "Lyon",
+      "Cannes",
+      "Bordeaux",
+      "Marseille",
+      "Toulouse",
+      "Strasbourg"
+    ],
+    "Germany": [
+      "Berlin",
+      "Munich",
+      "Frankfurt",
+      "Hamburg",
+      "Cologne",
+      "Dresden",
+      "Nuremberg",
+      "Heidelberg"
+    ],
+    "United Kingdom": [
+      "London",
+      "Edinburgh",
+      "Manchester",
+      "Bath",
+      "Oxford",
+      "York",
+      "Cambridge",
+      "Glasgow"
+    ],
+    "Italy": [
+      "Rome",
+      "Florence",
+      "Venice",
+      "Milan",
+      "Naples",
+      "Pisa",
+      "Verona",
+      "Bologna"
+    ],
+    "Austria": [
+      "Vienna",
+      "Salzburg",
+      "Innsbruck",
+      "Graz",
+      "Linz",
+      "Hallstatt",
+      "Klagenfurt",
+      "Zell am See"
+    ],
+    "Netherlands": [
+      "Amsterdam",
+      "Rotterdam",
+      "Utrecht",
+      "The Hague",
+      "Maastricht",
+      "Groningen",
+      "Delft",
+      "Leiden"
+    ],
+    "Switzerland": [
+      "Zurich",
+      "Geneva",
+      "Lucerne",
+      "Interlaken",
+      "Bern",
+      "Basel",
+      "Lausanne",
+      "Zermatt"
+    ],
+    "Greece": [
+      "Athens",
+      "Santorini",
+      "Mykonos",
+      "Rhodes",
+      "Crete",
+      "Thessaloniki",
+      "Corfu",
+      "Nafplio"
+    ]
+  }
+  
